@@ -1,3 +1,12 @@
+# v1.2.0
+##  2024-05-27
+
+1. [](#new)
+    * Add `tntsearch` plugin to sidebar
+    * Add `page-toc` plugin to sidebar
+1. [](#improved)
+    * Add options for sidebar in admin panel
+
 # v1.1.0
 ##  2024-05-13
 
